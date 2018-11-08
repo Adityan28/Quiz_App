@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">Q-1   Of the 7 wonders of the world, which one is in India?</string>
+    <string name="question_2">Q-2   Which country is the largest in the world in terms of area?</string>
+    <string name="question_3">Q-3   Which of the following are tennis related terms?</string>
+    <string name="question_4">Q-4   Which process is used to extract rubber from trees?</string>
+    <string name="question_5">Q-5   What was the full name of the president of USA from 1993 to 2001?</string>
+    <string name="question_6">Q-6   What is the full form of BPO?</string>
+    <string name="qu1_op1">The Leaning tower of Pisa</string>
+    <string name="qu1_op2">The Taj Mahal</string>
+    <string name="qu1_op3">The Colossus</string>
+    <string name="qu1_op4">The Great Wall of China</string>
+    <string name="qu2_op1">China</string>
+    <string name="qu2_op2">India</string>
+    <string name="qu2_op3">Russia</string>
+    <string name="qu2_op4">USA</string>
+    <string name="qu3_op1">Deuce</string>
+    <string name="qu3_op2">Goal</string>
+    <string name="qu3_op3">Ace</string>
+    <string name="qu3_op4">Batting</string>
+    <string name="qu4_op1">Scratching</string>
+    <string name="qu4_op2">Tapping</string>
+    <string name="qu4_op3">Boring</string>
+    <string name="qu4_op4">Squeezing</string>
+    <string name="qu6_op1">Branch of Petroleum and Oil</string>
+    <string name="qu6_op2">Bank Payment Order</string>
+    <string name="qu6_op3">Business People\'s Organisation</string>
+    <string name="qu6_op4">Business Process Outsourcing</string>
+    <string name="answer">Answer</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="finalScore">Your final Score is: </string>
+    <string name="good">Great Work!!</string>
+    <string name="okay">Good job! Can be better.</string>
+    <string name="bad">Bad. Improvement needed!!</string>
+    <string name="ques5_ans">George Washington Bush</string>
+</resources>
